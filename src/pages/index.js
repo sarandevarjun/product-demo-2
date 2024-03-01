@@ -126,7 +126,7 @@ const links = [
 const IndexPage = () => {
   return (
     <>
-      <h1>Hello world!!!</h1>
+      <h1>Gatsby Site Title!!!</h1>
     </>
   );
 };
